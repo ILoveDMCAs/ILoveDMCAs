@@ -5,7 +5,7 @@ Send cease & desists to owens#1442 (otherwise, I will not take these repositorie
 I will comply with any valid request.
 
 In your C&D, please include the following:
- **Your company name (and proof you own or are a acting member of it)**
+ **Your company name (and proof you own or are a acting member of it)** \n
  **File(s) requested to remove** (ie: I Would like file2.rbxl to be removed)
  **Reason for file removal** (ie: The file is copyright of "Studio Name")
  **Any contact (so that I am able to comply **
